@@ -1,0 +1,8 @@
+# Original photo: the site only uses portrait-data.js (generated from it), so the raw photo stays private
+Profile Pic.jpg
+
+# OS / editor clutter
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
